@@ -1,0 +1,44 @@
+C:\Users\Martin\source\repos\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martin\source\repos\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.Properties.Resources.resources
+C:\Users\Martin\source\repos\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.csproj.GenerateResource.cache
+C:\Users\Martin\source\repos\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.FrmAlta.resources
+C:\Users\Martin\source\repos\EquipoQ22\EquipoQ22\bin\Debug\EquipoQ22.exe.config
+C:\Users\Martin\source\repos\EquipoQ22\EquipoQ22\bin\Debug\EquipoQ22.exe
+C:\Users\Martin\source\repos\EquipoQ22\EquipoQ22\bin\Debug\EquipoQ22.pdb
+C:\Users\Martin\source\repos\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.exe
+C:\Users\Martin\source\repos\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.pdb
+D:\UTN\ProgramacionII\2022\2Cuatrimestre\Parcial\EquipoQ22\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.csproj.AssemblyReference.cache
+D:\UTN\ProgramacionII\2022\2Cuatrimestre\Parcial\EquipoQ22\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.csproj.SuggestedBindingRedirects.cache
+D:\UTN\ProgramacionII\2022\2Cuatrimestre\Parcial\EquipoQ22\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.FrmAlta.resources
+D:\UTN\ProgramacionII\2022\2Cuatrimestre\Parcial\EquipoQ22\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.Properties.Resources.resources
+D:\UTN\ProgramacionII\2022\2Cuatrimestre\Parcial\EquipoQ22\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.csproj.GenerateResource.cache
+D:\UTN\ProgramacionII\2022\2Cuatrimestre\Parcial\EquipoQ22\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.csproj.CoreCompileInputs.cache
+D:\UTN\ProgramacionII\2022\2Cuatrimestre\Parcial\EquipoQ22\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.exe
+D:\UTN\ProgramacionII\2022\2Cuatrimestre\Parcial\EquipoQ22\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.pdb
+D:\UTN\ProgramacionII\2022\2Cuatrimestre\Parcial\EquipoQ22\EquipoQ22\EquipoQ22\bin\Debug\EquipoQ22.exe.config
+D:\UTN\ProgramacionII\2022\2Cuatrimestre\Parcial\EquipoQ22\EquipoQ22\EquipoQ22\bin\Debug\EquipoQ22.exe
+D:\UTN\ProgramacionII\2022\2Cuatrimestre\Parcial\EquipoQ22\EquipoQ22\EquipoQ22\bin\Debug\EquipoQ22.pdb
+C:\Users\Alumno\Desktop\113829 - Freccia, Genaro Farid - 1W4\EquipoQ22\EquipoQ22\EquipoQ22\bin\Debug\EquipoQ22.exe.config
+C:\Users\Alumno\Desktop\113829 - Freccia, Genaro Farid - 1W4\EquipoQ22\EquipoQ22\EquipoQ22\bin\Debug\EquipoQ22.exe
+C:\Users\Alumno\Desktop\113829 - Freccia, Genaro Farid - 1W4\EquipoQ22\EquipoQ22\EquipoQ22\bin\Debug\EquipoQ22.pdb
+C:\Users\Alumno\Desktop\113829 - Freccia, Genaro Farid - 1W4\EquipoQ22\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\113829 - Freccia, Genaro Farid - 1W4\EquipoQ22\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\113829 - Freccia, Genaro Farid - 1W4\EquipoQ22\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.FrmAlta.resources
+C:\Users\Alumno\Desktop\113829 - Freccia, Genaro Farid - 1W4\EquipoQ22\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.Properties.Resources.resources
+C:\Users\Alumno\Desktop\113829 - Freccia, Genaro Farid - 1W4\EquipoQ22\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\113829 - Freccia, Genaro Farid - 1W4\EquipoQ22\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\113829 - Freccia, Genaro Farid - 1W4\EquipoQ22\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.exe
+C:\Users\Alumno\Desktop\113829 - Freccia, Genaro Farid - 1W4\EquipoQ22\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.pdb
+E:\Gena\Facultad\Programacion\Programacion II\Parciales\113829 - Freccia, Genaro Farid - 1W4\EquipoQ22\EquipoQ22\EquipoQ22\bin\Debug\EquipoQ22.exe.config
+E:\Gena\Facultad\Programacion\Programacion II\Parciales\113829 - Freccia, Genaro Farid - 1W4\EquipoQ22\EquipoQ22\EquipoQ22\bin\Debug\EquipoQ22.exe
+E:\Gena\Facultad\Programacion\Programacion II\Parciales\113829 - Freccia, Genaro Farid - 1W4\EquipoQ22\EquipoQ22\EquipoQ22\bin\Debug\EquipoQ22.pdb
+E:\Gena\Facultad\Programacion\Programacion II\Parciales\113829 - Freccia, Genaro Farid - 1W4\EquipoQ22\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.csproj.AssemblyReference.cache
+E:\Gena\Facultad\Programacion\Programacion II\Parciales\113829 - Freccia, Genaro Farid - 1W4\EquipoQ22\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.csproj.SuggestedBindingRedirects.cache
+E:\Gena\Facultad\Programacion\Programacion II\Parciales\113829 - Freccia, Genaro Farid - 1W4\EquipoQ22\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.FrmAlta.resources
+E:\Gena\Facultad\Programacion\Programacion II\Parciales\113829 - Freccia, Genaro Farid - 1W4\EquipoQ22\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.Properties.Resources.resources
+E:\Gena\Facultad\Programacion\Programacion II\Parciales\113829 - Freccia, Genaro Farid - 1W4\EquipoQ22\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.csproj.GenerateResource.cache
+E:\Gena\Facultad\Programacion\Programacion II\Parciales\113829 - Freccia, Genaro Farid - 1W4\EquipoQ22\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.csproj.CoreCompileInputs.cache
+E:\Gena\Facultad\Programacion\Programacion II\Parciales\113829 - Freccia, Genaro Farid - 1W4\EquipoQ22\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.exe
+E:\Gena\Facultad\Programacion\Programacion II\Parciales\113829 - Freccia, Genaro Farid - 1W4\EquipoQ22\EquipoQ22\EquipoQ22\obj\Debug\EquipoQ22.pdb
